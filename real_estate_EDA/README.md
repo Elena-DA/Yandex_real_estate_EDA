@@ -51,5 +51,5 @@
 - написание общего вывода
   
 ## Используемые языки и библиотеки
-*Python*, *pandas*, *matplotlib*, *numpy*
+**Python**, *pandas*, *matplotlib*, *numpy*
 
